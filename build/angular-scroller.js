@@ -1,7 +1,7 @@
 (function() {
    'use strict';
 
-    var app = angular.module('app.scroller', []);
+    var app = angular.module('scroller', []);
     
     app.directive('scroller', function($rootScope, $window, $interval) {
         return {
