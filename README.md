@@ -15,7 +15,7 @@ Getting Started
 
  * Ensure that your application module specifies `infinite-scroll` as a dependency:
 
-        angular.module('myApplication', ['infinite-scroll']);
+        angular.module('myApplication', ['scroller']);
 
  * Use the directive by specifying an `scroller` attribute on an element.
 
@@ -32,4 +32,4 @@ accepts several attributes to customize the behavior of the directive; detailed 
 License
 -------
 
-ngInfiniteScroll is licensed under the MIT license. See the LICENSE file for more details.
+'Scroller' licensed under the MIT license. See the LICENSE file for more details.
